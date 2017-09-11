@@ -3,7 +3,18 @@ Interested in Music? Well This I the place, Rock on!
 <!DOCTYPE HTML>
 <Html>
 <head> 
-<tittle> Enigami The Music</tittle>
+<!--Trying Internal css -->
+<style>
+body {
+background-color:powderblue;
+}
+h1{
+color:blue;
+}
+p{
+color:red;
+}
+</style>
 </head>
 <body> 
 <!-- Trying to use inline Style -->
