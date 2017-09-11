@@ -5,8 +5,9 @@ Interested in Music? Well This I the place, Rock on!
 <head> 
 <tittle> Enigami The Music</tittle>
 </head>
-<body>
-<h1>Interested in Music? Well this is the place to know Rock Music and it's different branches. Rock ON!
+<body> 
+<!-- Trying to use inline Style -->
+<h1 style="color:red;"> Interested in Music? Well this is the place to know Rock Music and it's different branches. Rock ON!
 </h1>
 <article>
 <h1>Albums</h1>
